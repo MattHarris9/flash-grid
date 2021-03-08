@@ -1,0 +1,45 @@
+.whole {
+    padding-top: 60px;
+    padding-bottom: 10px!important;
+}
+
+.padding {
+    padding: 1%;    
+}
+
+.light-border {
+    /* border: solid; */
+    /* border-color: rgba(21, 24, 211, 0.068); */
+    border-width: 5px;
+    margin:2%!important;
+}
+
+#adPic {
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin-left: 65px;
+    /* padding-top: 30px; */
+    /* height: 600px;
+    width: 420px; */
+    min-height: 360px;
+    min-width: 210px;
+    max-height: 100%;
+    max-width: 100%;
+    object-fit: cover;
+    transition: 0.5s;  
+    position: relative;
+}
+
+#close {
+    position: absolute;
+    left: 95px;
+    font-size: 30px;
+    cursor: pointer;
+}
+
+h6{
+    margin-left: 170px;
+    color: white;
+}
