@@ -24,7 +24,7 @@ this is a web app go to the link here https://fathomless-crag-63072.herokuapp.co
  |----------------|-------------------|
  | Hisham Kader   | Add Link Here     |
  |    John Rogers |   add Link here   |
- | Mathew Harris  |   add Link here   |
+ | Mathew Harris  | http://github.com/mattharris9   |
  |Thomas M. Player| http://github.com/playerthomasm6|
  | Hemanth Kanuri  | add Link here    |
  | Griffin Surett  | add Link here    |
