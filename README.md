@@ -27,7 +27,7 @@ this is a web app go to the link here https://fathomless-crag-63072.herokuapp.co
  | Mathew Harris  | http://github.com/mattharris9   |
  |Thomas M. Player| http://github.com/playerthomasm6|
  | Hemanth Kanuri | http://github.com/hkanuri   |
- | Griffin Surett  | add Link here    |
+ | Griffin Surett | http://github.com/griffinjoshs    |
 
 ## License 
 This is free and unencumbered software released into the public domain.
