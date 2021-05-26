@@ -81,6 +81,12 @@ function Nav() {
                     </Link>
                 </div>
 
+                <div className='col navcol'>
+                    <Link className="navbar-brand" to="/login">
+                        <div className="fontresize"> Login</div>
+                    </Link>
+                </div>
+
                 
                 
                     {getUser()}
